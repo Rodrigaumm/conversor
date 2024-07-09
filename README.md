@@ -1,6 +1,6 @@
 # Attention
 - The program requires info to be stored in the .env file at the root of the project to run (aside to the ```src``` folder)
-- You should create this file (.env), or remove the ```.example``` from the filename of ```.env.example``` stored in the repo
+- You should create this file (.env), or remove ```.example``` from the filename of ```.env.example``` stored in the repo root
 
 # Example
 Your env should look like this:
